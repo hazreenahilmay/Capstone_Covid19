@@ -3,6 +3,8 @@
 
 
 Deep learning model:
+
+
 ![model_architecture](https://github.com/user-attachments/assets/74091a2c-2a61-46ba-b382-07f4104ebba6)
 
  
