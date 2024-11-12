@@ -1,3 +1,6 @@
+
+![Uploading AdobeStock_325613525.jpeg…]()
+
 ## Deep Learning-Based Forecasting Model Using LSTM for COVID-19 Case Predictions in Malaysia
 
 **Objective:**
