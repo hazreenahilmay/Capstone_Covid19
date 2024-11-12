@@ -1,5 +1,5 @@
 
-![Uploading AdobeStock_325613525.jpeg…]()
+![AdobeStock_325613525](https://github.com/user-attachments/assets/4924b72c-68f9-41f2-8b50-75ca8ec1a0e6)
 
 ## Deep Learning-Based Forecasting Model Using LSTM for COVID-19 Case Predictions in Malaysia
 
