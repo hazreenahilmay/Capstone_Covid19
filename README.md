@@ -1,19 +1,19 @@
 ## Deep Learning-Based Forecasting Model Using LSTM for COVID-19 Case Predictions in Malaysia
 
-#Objective:
+**Objective:**
 This project aims to utilize a deep learning model to forecast daily COVID-19 case numbers in Malaysia, assisting policymakers in deciding when to impose or ease travel restrictions. The project involves developing an Long short-term memory (LSTM) neural network model to predict new cases based on the previous 30 days of reported case data.
 
-#Dataset:
+**#Dataset:**
 Trained about 1744 official data provided by Ministry of Health Malaysia in an official GitHub page to forecast Covid-19 cases.
 
-#Deep learning model:
+**Deep learning model**
 
 The deep learning model utilized in this project is composed of three main layers: an input layer, an LSTM (Long Short-Term Memory) layer, and an output layer. 
 
 ![model_architecture](https://github.com/user-attachments/assets/74091a2c-2a61-46ba-b382-07f4104ebba6)
 
 
-#Result: 
+**Result:**
 Training Loss
 ![training_loss](https://github.com/user-attachments/assets/aa36c630-3352-4e4b-a22f-74f08e81860c)
 
