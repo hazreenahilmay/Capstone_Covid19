@@ -3,7 +3,7 @@
 **Objective:**
 This project aims to utilize a deep learning model to forecast daily COVID-19 case numbers in Malaysia, assisting policymakers in deciding when to impose or ease travel restrictions. The project involves developing an Long short-term memory (LSTM) neural network model to predict new cases based on the previous 30 days of reported case data.
 
-**#Dataset:**
+**Dataset:**
 Trained about 1744 official data provided by Ministry of Health Malaysia in an official GitHub page to forecast Covid-19 cases.
 
 **Deep learning model**
@@ -14,18 +14,23 @@ The deep learning model utilized in this project is composed of three main layer
 
 
 **Result:**
-Training Loss
-![training_loss](https://github.com/user-attachments/assets/aa36c630-3352-4e4b-a22f-74f08e81860c)
 
-#Evaluation (Model Score):
-![evaluation](https://github.com/user-attachments/assets/b6a06286-499d-4675-8efa-c7d6b71b7338)
-
-#Malaysia's Covid-19 Cases Trendline:
+**Predictive Analysis of COVID-19 Case Trends in Malaysia:**
 
 ![prediction training](https://github.com/user-attachments/assets/1de6ca1f-bb63-4768-8cea-219f5549ed7a)
 
+**Model Evaluation and Performance Scoring:**
+![evaluation](https://github.com/user-attachments/assets/b6a06286-499d-4675-8efa-c7d6b71b7338)
 
-#Reference: 
+**Training Loss:**
+![training_loss](https://github.com/user-attachments/assets/aa36c630-3352-4e4b-a22f-74f08e81860c)
+
+##Summary
+
+**Based on the model evaluation and tensorboard, we can see that:**
+1) 
+
+**Reference:** 
 Ministry of Health Malaysia. COVID-19 Public Dataset: Official Data on the COVID-19 Epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera. Available at MoH.Malaysia/covid19-public.
 
 Link: https://github.com/MoH-Malaysia/covid19-public
