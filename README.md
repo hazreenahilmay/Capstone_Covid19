@@ -25,10 +25,12 @@ The deep learning model utilized in this project is composed of three main layer
 **Training Loss:**
 ![training_loss](https://github.com/user-attachments/assets/aa36c630-3352-4e4b-a22f-74f08e81860c)
 
-##Summary
+**Summary**
 
-**Based on the model evaluation and tensorboard, we can see that:**
-1) 
+1) The model recorded a Mean Absolute Error (MAE) of 0.03% and a Mean absolute percentage error (MAPE) of 0.04%, well below the 1% threshold, indicating high prediction accuracy.
+2) The architecture of the model consists solely of LSTM, Dense, and Dropout layers, which were carefully chosen for their effectiveness in handling sequential time-series data.
+3) The LSTM layers contained 32 and 64 nodes, with the tanh activation function applied to improve the model's ability to learn and understand patterns over time.
+4) The training loss, which was recorded at 0.011 which suggests that the model is effectively learning and making accurate predictions as it progresses through the training process."
 
 **Reference:** 
 Ministry of Health Malaysia. COVID-19 Public Dataset: Official Data on the COVID-19 Epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera. Available at MoH.Malaysia/covid19-public.
